@@ -1,0 +1,32 @@
+body {
+    background-color: peachpuff;
+    font-family:cursive ;
+}
+
+h1 {
+    color: gray;
+}
+
+a {
+    color: slateblue;
+}
+
+nav ul {
+    background-color: sandybrown;
+    border-style: solid;
+    border-color: seashell;
+    border-radius: 9px;
+}
+
+nav ul li {
+    display: inline;
+    list-style-type: none;
+    color: papayawhip;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: olive
+}
